@@ -136,7 +136,7 @@ a:focus,a:hover {
     padding: 100px 0;
     text-align: center;
     color: #fff;
-    background-image: linear-gradient(rgba(35,35,35, 0.8), rgba(35,35,35, 0.8)),url('img/edgy.png') !important;
+    background-image: linear-gradient(rgba(35,35,35, 0.9), rgba(35,35,35, 0.9)),url('img/edgy.png') !important;
     position:relative;
     width:100%;
     text-align:center
